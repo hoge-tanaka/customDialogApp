@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomDialogApp</string>
+    <string name="text_input_number">ボタンを押してください</string>
+    <string name="button_appear_dialog">入力ダイアログを表示</string>
+    <string name="dialog_title">数字を入力してください</string>
+    <string name="dialog_hints">数字を入力</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ok">OK</string>
+</resources>
